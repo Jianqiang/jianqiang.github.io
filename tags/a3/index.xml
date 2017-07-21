@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A3 on Jianqiang Ma</title>
+    <link>http://www.sfs.uni-tuebingen.de/~jma/tags/a3/index.xml</link>
+    <description>Recent content in A3 on Jianqiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jianqiang Ma</copyright>
+    <atom:link href="/~jma/tags/a3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A3: Corpus-based Disambiguation of Semantic Relations</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/project/a3/</link>
+      <pubDate>Wed, 01 Apr 2015 10:05:24 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/project/a3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

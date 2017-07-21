@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jianqiang Ma</title>
+    <link>http://www.sfs.uni-tuebingen.de/~jma/post/index.xml</link>
+    <description>Recent content in Posts on Jianqiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jianqiang Ma</copyright>
+    <lastBuildDate>Fri, 27 Jan 2017 10:25:17 +0100</lastBuildDate>
+    <atom:link href="/~jma/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>All of Recurrent Neural Networks</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/post/all_of_rnn/</link>
+      <pubDate>Fri, 27 Jan 2017 10:25:17 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/post/all_of_rnn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e&#34; target=&#34;_blank&#34;&gt;view on medium&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

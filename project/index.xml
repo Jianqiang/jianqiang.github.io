@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jianqiang Ma</title>
+    <link>http://www.sfs.uni-tuebingen.de/~jma/project/index.xml</link>
+    <description>Recent content in Projects on Jianqiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jianqiang Ma</copyright>
+    <lastBuildDate>Wed, 01 Apr 2015 10:05:24 +0100</lastBuildDate>
+    <atom:link href="/~jma/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A3: Corpus-based Disambiguation of Semantic Relations</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/project/a3/</link>
+      <pubDate>Wed, 01 Apr 2015 10:05:24 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/project/a3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARA: Common Language Resources and their Applications — a Marie Curie ITN</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/project/clara/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/project/clara/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianqiang Ma on Jianqiang Ma</title>
+    <link>http://www.sfs.uni-tuebingen.de/~jma/index.xml</link>
+    <description>Recent content in Jianqiang Ma on Jianqiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jianqiang Ma</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~jma/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PP Attachment: Where do We Stand?</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/pp/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All of Recurrent Neural Networks</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/post/all_of_rnn/</link>
+      <pubDate>Fri, 27 Jan 2017 10:25:17 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/post/all_of_rnn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e&#34; target=&#34;_blank&#34;&gt;view on medium&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extracting a PP Attachment Data Set from a German Dependency Treebank Using Topological Fields</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/pp-extraction/</link>
+      <pubDate>Wed, 25 Jan 2017 14:55:07 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/pp-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Corpus-Based Model of Semantic Plausibility for German Bracketing Paradoxes</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/bp/</link>
+      <pubDate>Tue, 17 Jan 2017 15:06:18 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Phone Embeddings for Word Segmentation of Child-Directed Speech</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/la-seg/</link>
+      <pubDate>Thu, 11 Aug 2016 15:25:35 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/la-seg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Letter Sequence Labeling for Compound Splitting</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/compound-splitting/</link>
+      <pubDate>Thu, 11 Aug 2016 14:25:35 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/compound-splitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Predicting Compositionality of Compounds using Word Vectors</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/LE2016/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/LE2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Linear-Time Chinese Word Segmentation via Embedding Matching</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/cws-acl15/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/cws-acl15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A3: Corpus-based Disambiguation of Semantic Relations</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/project/a3/</link>
+      <pubDate>Wed, 01 Apr 2015 10:05:24 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/project/a3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Refinement of Syntactic Categories in Chinese Word Structures</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/word-struct/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/word-struct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARA: Common Language Resources and their Applications — a Marie Curie ITN</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/project/clara/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/project/clara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributional Evidence and Beyond: the Success and Limitations of Machine Learning in Chinese Word Segmentation</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/zipf/</link>
+      <pubDate>Sun, 24 Mar 2013 15:58:32 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/zipf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Automatic Annotation of Chinese Word Structure</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/semi-word-struct/</link>
+      <pubDate>Tue, 25 Dec 2012 16:05:23 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/semi-word-struct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phrase-Based Approach for Adaptive Tokenization</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/phrase-tokenization/</link>
+      <pubDate>Thu, 07 Jun 2012 16:13:32 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/phrase-tokenization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalized Method for Iterative Error Mining in Parsing Results</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/error-mining/</link>
+      <pubDate>Thu, 06 Aug 2009 16:17:24 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/error-mining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
