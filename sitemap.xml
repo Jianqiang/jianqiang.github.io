@@ -60,7 +60,7 @@
     
     
     <url>
-      <loc>https://jianqiang.github.io/publication/LE2016/</loc>
+      <loc>https://jianqiang.github.io/publication/le2016/</loc>
       <lastmod>2016-02-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -175,13 +175,18 @@
     
     
     <url>
-      <loc>https://jianqiang.github.io/tags/clara/</loc>
-      <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+      <loc>https://jianqiang.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
   
     
+    
+    <url>
+      <loc>https://jianqiang.github.io/tags/clara/</loc>
+      <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
     
   
     
@@ -215,6 +220,7 @@
     
     <url>
       <loc>https://jianqiang.github.io/publication_types/</loc>
+      <lastmod>2017-04-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,6 +229,7 @@
     
     <url>
       <loc>https://jianqiang.github.io/tags/</loc>
+      <lastmod>2015-04-01T10:05:24+01:00</lastmod>
       <priority>0</priority>
     </url>
     

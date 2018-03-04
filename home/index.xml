@@ -2,13 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Jianqiang Ma</title>
-    <link>https://jianqiang.github.io/home/index.xml</link>
+    <link>https://jianqiang.github.io/home/</link>
     <description>Recent content in Homes on Jianqiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Jianqiang Ma</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jianqiang.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jianqiang.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianqiang.github.io/home/about/</guid>
+      <description>About Jianqiang Ma has been working as a staff scientist at memect.cn since January 2018. Before that, he worked at the collaborative research center SFB 833 and the Department of Linguistics at the University of Tübingen as a researcher from October 2010 to December 2017.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://jianqiang.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianqiang.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://jianqiang.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianqiang.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jianqiang.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianqiang.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jianqiang.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianqiang.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

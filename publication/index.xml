@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Jianqiang Ma</title>
-    <link>https://jianqiang.github.io/publication/index.xml</link>
+    <link>https://jianqiang.github.io/publication/</link>
     <description>Recent content in Publications on Jianqiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Jianqiang Ma</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jianqiang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>PP Attachment: Where do We Stand?</title>
@@ -57,10 +59,10 @@
     
     <item>
       <title> Predicting Compositionality of Compounds using Word Vectors</title>
-      <link>https://jianqiang.github.io/publication/LE2016/</link>
+      <link>https://jianqiang.github.io/publication/le2016/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jianqiang.github.io/publication/LE2016/</guid>
+      <guid>https://jianqiang.github.io/publication/le2016/</guid>
       <description></description>
     </item>
     
